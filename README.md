@@ -9,3 +9,15 @@ still adding results (screenshots) of terraform's work with aws
 [Results of latest_ami](https://drive.google.com/drive/folders/1krpb0LDOj1rZIcuUN_Q79UlMR-cFyMwM?usp=sharing)
 
 [Results of datadog-terraform](https://drive.google.com/drive/folders/1vptAhHGkrVOXVTxwiUNF1o5yQuxW4QQK?usp=sharing)
+
+[Results of dynamicsecuritygroup](https://drive.google.com/drive/folders/1hzzaDLKlrORHZefXGgEFB__sQsJ7NINS?usp=sharing)
+
+[Results of ]()
+
+[Results of ]()
+
+[Results of ]()
+
+[Results of ]()
+
+[Results of ]()
